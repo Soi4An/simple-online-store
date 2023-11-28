@@ -52,6 +52,7 @@ The project architecture:
 5) The Debounce function is added to the search query to save capacity.
 
 ## DEMO LINK:
+https://soi4an.github.io/simple-online-store/
 
 ## Figma design:
 https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2
